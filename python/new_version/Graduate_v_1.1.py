@@ -9,7 +9,7 @@
 #
 #  Author       : Jeongkyu Kim (Dept. of Multimedia Engineering at Dongguk University, Seoul, Korea)
 #  E-mail       : jkkim@mme.dongguk.edu
-#  Version      : 0.1
+#  Version      : 1.1
 #  Rev. Date    : July. 06, 2020
 #
 #  First, I used to program name is PyCham
