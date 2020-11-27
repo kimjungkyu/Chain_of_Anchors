@@ -1,6 +1,6 @@
 # Study on DNA Sequences of Anchoring based on Alignment Algorithm.
 
-# Graduate_v_3.1
+# Graduate_v_3.2
 # C:\Users\jkkim\PycharmProjects\Graduate_2020_2
 # -*- coding: utf-8 -*-
 #
@@ -9,7 +9,7 @@
 #
 #  Author       : Jeongkyu Kim (Dept. of Multimedia Engineering at Dongguk University, Seoul, Korea)
 #  E-mail       : jkkim@mme.dongguk.edu
-#  Version      : 3.1
+#  Version      : 3.2
 #  Rev. Date    : Nov. 23, 2020
 #
 #  First, I used to program name is PyCham
